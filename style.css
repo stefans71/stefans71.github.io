@@ -47,7 +47,7 @@ a {
   background: #fff;
   width: 40%;
   float: left;
-  color: #9099a0;
+  color: #000207;
 }
 @media (max-width: 850px) {
   .profile {
@@ -202,7 +202,7 @@ a {
   width: 60%;
   float: left;
   position: relative;
-  color: #9099a0;
+  color: #00080e;
   font-weight: 300;
   min-height: 100%;
   min-height: 100vh;
